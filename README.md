@@ -20,18 +20,6 @@ View the live website here:
 
 ---
 
-## 📁 Repository Structure
-index.html
-mp1.html
-mp2.html
-mp3.html
-tc-portfolio.html
-css/
-js/
-images/
-docs/
-
----
 
 © 2025 Jasper Hsieh  
 Georgia Institute of Technology  
