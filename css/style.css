@@ -371,3 +371,23 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* Additional styles for LMC 3403 portfolio pages */
+.poster-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.6);
+    margin-top: 20px;
+}
+#mp1-links ul, #mp2-process ul, #mp3-artifacts ul, #mp3-process ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+#mp1-links a, #mp2-process a, #mp3-artifacts a, #mp3-process a {
+    color: #cccccc;
+    text-decoration: none;
+}
+#mp1-links a:hover, #mp2-process a:hover, #mp3-artifacts a:hover, #mp3-process a:hover {
+    color: #45a29e;
+}
